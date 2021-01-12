@@ -1,3 +1,46 @@
+### EDUCATION
+
+**University of California, Los Angeles**, MS/PhD Program, GPA 3.928  
+**RoMeLa**, Dr. Dennis Hong’s robotics laboratory, graduate researcher   
+*Honors*: 2016 UCLA GOFP Fellow (Graduate Division Fellowship)   
+*Focus*: Robotics, Controls, Optimization and Reinforcement Learning  
+
+**Yale University**, Graduated with B.S. in Mechanical Engineering  
+**Yale Varsity Football Team**, Right Offensive Guard, 3-Year Starter  
+*Honors*: 2012 Yale China Fellowship Recipient, 2012 National Football Foundation Hampshire Honor Society, 2011 Ted Turner Award (Best Yale Offensive Lineman), 2011 All-Ivy Selection, and 2011 Yale’s Light Fellowship Recipient 
+
+### Publications 
+
+**Preferential Local Linear Structures for Deep Reinforcement Learning**  
+**Policies**, Fernandez, G. I., Hong, D. W., Yang, L. I.   
+*Published in*: (Pending) IJCAI, 2021
+
+**Optimization Based Motion Planning for Multi-Limbed Vertical**  
+**Climbing Robots**, Lin, X., Zhang, J., Shen J.,  Fernandez, G., Hong, D.  
+*Honors*: IROS Best Paper Award on Safety, Security, and Rescue Robotics  
+*Published in*: IEEE IROS, 2019 
+
+**Feasibility study of an aerial lifting device using aerodynamic drag**  
+**for ascent**, Lin, X.,  Fernandez, G., Ghassemi, S., Hong, D.  
+*Published in*: ASME IDETC, 2019  
+
+### LANGUAGES 
+
+**Fudan University**, Shanghai, Intensive Chinese Language Program  
+*Certification:* HSK Level 5, collegiate level of fluency 
+
+**Yale-China Fellow**, Xiuning, Anhui, China   
+Created and taught original lesson plans for rural high school students 
+
+**Sun Academy,** Tokyo, Japan, intensive Japanese language study abroad 
+
+### SKILLS & HOBBIES 
+
+**Software  &  Libraries:**  PyTorch,  Tensorflow,  Python,  C++,  Prolog, CVXPY, Matlab, MuJoCo, Gazebo and Microsoft Office Suite
+
+**Hobbies:** Lifting weights, running, painting and sketching 
+
+
 <!---
 ---
 permalink: /
