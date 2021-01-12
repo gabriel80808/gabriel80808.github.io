@@ -8,7 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-### EDUCATION
+### EDUCATION  
+
 
 **University of California, Los Angeles**, MS/PhD Program, GPA 3.928  
 **RoMeLa**, Dr. Dennis Hong’s robotics laboratory, graduate researcher   
@@ -22,7 +23,8 @@ Foundation Hampshire Honor Society, 2011 Ted Turner Award (Best Yale
 Offensive Lineman), 2011 All-Ivy Selection, and 2011 Yale’s Light  
 Fellowship Recipient 
 
-### PUBLICATIONS 
+### PUBLICATIONS  
+
 
 **Preferential Local Linear Structures for Deep Reinforcement Learning**  
 **Policies**, Fernandez, G. I., Hong, D. W., Yang, L. I.   
@@ -37,7 +39,8 @@ Fellowship Recipient
 **for ascent**, Lin, X.,  Fernandez, G., Ghassemi, S., Hong, D.  
 *Published in*: ASME IDETC, 2019  
 
-### LANGUAGES 
+### LANGUAGES  
+
 
 **Fudan University**, Shanghai, Intensive Chinese Language Program  
 *Certification:* HSK Level 5, collegiate level of fluency 
@@ -47,7 +50,8 @@ Created and taught original lesson plans for rural high school students
 
 **Sun Academy,** Tokyo, Japan, intensive Japanese language study abroad 
 
-### SKILLS & HOBBIES 
+### SKILLS & HOBBIES  
+
 
 **Software  &  Libraries:**  PyTorch,  Tensorflow,  Python,  C++,  
 Prolog, CVXPY, Matlab, MuJoCo, Gazebo and Microsoft Office Suite
