@@ -7,7 +7,7 @@
 
 **Yale University**, Graduated with B.S. in Mechanical Engineering  
 **Yale Varsity Football Team**, Right Offensive Guard, 3-Year Starter  
-*Honors*: 2012 Yale China Fellowship Recipient, 2012 National Football 
+*Honors*: 2012 Yale China Fellowship Recipient, 2012 National Football  
 Foundation Hampshire Honor Society, 2011 Ted Turner Award (Best Yale  
 Offensive Lineman), 2011 All-Ivy Selection, and 2011 Yale’s Light  
 Fellowship Recipient 
