@@ -12,7 +12,7 @@ Foundation Hampshire Honor Society, 2011 Ted Turner Award (Best Yale
 Offensive Lineman), 2011 All-Ivy Selection, and 2011 Yale’s Light  
 Fellowship Recipient 
 
-### Publications 
+### PUBLICATIONS 
 
 **Preferential Local Linear Structures for Deep Reinforcement Learning**  
 **Policies**, Fernandez, G. I., Hong, D. W., Yang, L. I.   
